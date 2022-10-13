@@ -1,7 +1,14 @@
 # ProfaNion
 
-todo : all
+todo :
 
+-More Features
+
+-Error handling
+
+-good looking readme (maybe?)
 
 
 -- Features --
+
+
